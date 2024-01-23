@@ -1,0 +1,36 @@
+h1{
+    color: tomato;
+    display: flex;
+    justify-content: center;
+}
+
+main{
+   
+    display: flex;
+    justify-content: center;
+    height: 12rem;
+}
+
+.formulario{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 20rem;
+
+    
+}
+
+.ingreso{
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+}
+
+button{
+    width: 6rem;
+}
+
+body{
+    background-color: violet;
+}
